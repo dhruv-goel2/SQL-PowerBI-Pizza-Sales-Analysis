@@ -69,4 +69,4 @@ This project analyzes pizza sales data using SQL and Power BI to identify sales 
 
 **Dhruv Goel**
 
-Aspiring Data Analyst | SQL | Power BI | Excel | Python
+Aspiring Data Analyst | SQL | Power BI | Excel 
