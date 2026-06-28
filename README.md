@@ -46,14 +46,6 @@ This project analyzes pizza sales data using SQL and Power BI to identify sales 
 
 ---
 
-## 📂 Project Files
-
-- `pizza_sales.sql` – SQL queries used for analysis.
-- `project.pbix` – Power BI dashboard.
-- `PIZZA SALES ANALYSIS.docx` – Project documentation.
-
----
-
 ## 🚀 Skills Demonstrated
 
 - SQL Queries
